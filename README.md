@@ -4,7 +4,7 @@
 
 #### Link to Github Page
 
-[🎚️ Slider Project (Click here)](https://jovyflagg.github.io/faq/)
+[🎚️Slider Project (Click here)](https://jovyflagg.github.io/slider/)
 
 #### React Icons
 
